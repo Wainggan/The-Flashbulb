@@ -1,0 +1,8 @@
+Backup/*
+*.mp3
+Samples/*
+!Samples/1.wav
+!Samples/h1-2.wav
+!Samples/shake1.wav
+!Samples/snap1-2.wav
+!Samples/snare1-1.wav
